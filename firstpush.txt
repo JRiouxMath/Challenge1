@@ -1,0 +1,1 @@
+This is the first challenge in LinkedIn Learning's Git Essential Training.
